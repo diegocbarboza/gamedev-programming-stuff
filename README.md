@@ -48,6 +48,7 @@
 - [Build Report Inspector for Unity](https://assetstore.unity.com/packages/tools/utilities/build-report-inspector-for-unity-119923)
 - [Unity Performance Benchmark Reporter](https://github.com/Unity-Technologies/PerformanceBenchmarkReporter/wiki)
 - [MurMur - A lightweight language for writing dialog](https://github.com/saint11/MurMur)
+- [Flutter - beautiful native apps on iOS and Android](https://flutter.dev/showcase)
 
 ## Source Code
 - [Unity Source Code](https://github.com/Unity-Technologies/UnityCsReference)
@@ -71,6 +72,7 @@
 ## Trivia and cool stuff
 - [Skyrim small tables are actually shelves buried](https://twitter.com/DJ_Link/status/964124424969637888)
 - [AR Drink Coaster](https://twitter.com/CH_CGI/status/1034868729199321088)
+- [Only High quality codes.](https://twitter.com/Prisxzma/status/1005132332817420288)
 
 ## Algorithms
 - [500 Data Structures and Algorithms interview questions and their solutions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions?srid=hOqIb)
