@@ -15,6 +15,14 @@
 - [Scriptable Render Pipeline From Scratch](https://github.com/pbbastian/SRPFromScratch)
 - [Adding shortcuts inside Unity projects](https://twitter.com/DavidCodeAndArt/status/1047037247336435713)
 - [Create your own Inverse Dynamics in Unity](https://www.gamasutra.com/blogs/LuisBermudez/20181219/333224/Create_your_own_Inverse_Dynamics_in_Unity.php)
+- Linden Reid - Procedural Generation
+  - [Intro to Procedural Geometry, Part 1](https://lindenreid.wordpress.com/2018/01/20/intro-to-procedural-geometry-part-1/)
+  - [Intro to Procedural Geometry, Part 2](https://lindenreid.wordpress.com/2018/02/24/intro-to-procedural-geometry-part-2/)
+  - [Intro to Procedural Geometry, Part 3](https://lindenreid.wordpress.com/2018/02/24/intro-to-procedural-geometry-part-3/)
+  - [Procedural Sphere / Ellipsoid Tutorial](https://lindenreid.wordpress.com/2017/11/07/procedural-sphere-ellipsoid-tutorial/)
+  - [Procedural Torus Tutorial](https://lindenreid.wordpress.com/2017/11/06/procedural-torus-tutorial/)
+  - [Procedural Mesh Extrusion Tutorial](https://lindenreid.wordpress.com/2017/11/05/procedural-mesh-extrusion-tutorial/)
+  - [Procedural Stellation Tutorial](https://lindenreid.wordpress.com/2017/11/04/procedural-stellation-tutorial/)
 
 ## Unity Shaders and Effects
 - [Shader Graph Example Library](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
@@ -27,6 +35,28 @@
 - [Doodle Distortion](https://twitter.com/SmashyNick/status/1011319744031440896)
 - [Recreating the Zelda VFX in Unity](https://www.gamasutra.com/blogs/GregorySilva/20180628/320991/Recreating_the_Zelda_VFX_in_Unity.php)
 - [CD-ROM Shader: Diffraction Grating](https://www.alanzucconi.com/2017/07/15/cd-rom-shader-1/)
+- Linden Reid - Shaders
+  - [Basic Math for Shaders](https://lindenreid.wordpress.com/2018/08/25/basic-math-for-shaders/)
+  - [Getting Started Learning Tech Art & Unity Shader Writing](https://lindenreid.wordpress.com/2019/01/30/getting-started-learning-tech-art-unity-shader-writing/)
+  - [Color Spread Post-Processing Effect Tutorial in Unity](https://lindenreid.wordpress.com/2019/01/06/color-spread-post-processing-effect-tutorial-in-unity/)
+  - [Foggy Window Shader in Unity](https://lindenreid.wordpress.com/2018/11/19/foggy-window-shader-in-unity/)
+  - [Using Command Buffers in Unity: Selective Bloom](https://lindenreid.wordpress.com/2018/09/13/using-command-buffers-in-unity-selective-bloom/)
+  - [X-Ray Shader Tutorial in Unity](https://lindenreid.wordpress.com/2018/03/17/x-ray-shader-tutorial-in-unity/)
+  - [Heat Distortion Shader Tutorial](https://lindenreid.wordpress.com/2018/03/05/heat-distortion-shader-tutorial/)
+  - [Rim Highlight in Unity](https://lindenreid.wordpress.com/2018/03/03/rim-highlight-in-unity/)
+  - [Texture Mask Shader in Unity Tutorial](https://lindenreid.wordpress.com/2018/02/25/texture-mask-shader-unity-tutorial/)
+  - [Custom Diffuse Shader in Unity](https://lindenreid.wordpress.com/2018/02/20/custom-diffuse-shader-in-unity/)
+  - [Camera Effect Shaders in Unity](https://lindenreid.wordpress.com/2018/02/05/camera-shaders-unity/)
+  - [Colored Outline Shader in Unity](https://lindenreid.wordpress.com/2018/02/04/colored-outline-shader-in-unity/)
+  - [2D Reflective Water Shader in Unity](https://lindenreid.wordpress.com/2018/01/31/2d-reflective-water-shader-in-unity/)
+  - [Waving Grass Shader in Unity](https://lindenreid.wordpress.com/2018/01/07/waving-grass-shader-in-unity/)
+  - [Ice Shader in Unity](https://lindenreid.wordpress.com/2017/12/30/ice-shader-in-unity/)
+  - [Cel Shader with Outline in Unity](https://lindenreid.wordpress.com/2017/12/19/cel-shader-with-outline-in-unity/)
+  - [Animated Dotted Outline Shader in Unity](https://lindenreid.wordpress.com/2017/12/24/animated-dotted-outline-shader-in-unity/)
+  - [Glass Shader with Opaque Edge Effect in Unity](https://sogoodgames.wordpress.com/2017/09/11/glass-shader-with-opaque-edge-effect-in-unity/)
+  - [Dissolve Shader in Unity](https://lindenreid.wordpress.com/2017/12/16/dissolve-shader-in-unity/)
+  - [Simple Water Shader in Unity](https://lindenreid.wordpress.com/2017/12/15/simple-water-shader-in-unity/)
+  - [Unity Graphics Setup](https://lindenreid.wordpress.com/2017/12/18/unity-graphics-setup/)
 
 ## Game Assets
 - [Kenney Game Assets](https://kenney.nl/assets)
@@ -58,6 +88,7 @@
 ## Game/Level Design
 - [How Cameras in Side-Scrollers / Platformers work](https://gamasutra.com/blogs/ItayKeren/20150511/243083/Scroll_Back_The_Theory_and_Practice_of_Cameras_in_SideScrollers.php)
 - [Level Design Tips and Tricks](https://www.gamasutra.com/blogs/TomPugh/20181022/329044/Level_Design_Tips_and_Tricks.php)
+- [How I make a dependency graph](https://www.patreon.com/posts/how-i-make-graph-20631617)
 
 ## UI/UX
 - [CAVEATS - A collection of dataviz caveats](https://www.data-to-viz.com/caveats.html)
@@ -105,3 +136,7 @@
 ## Research
 - [A collection of open access visualization research at the EuroVis 2019 conference](http://oa-eurovis.jamesscottbrown.com/2019/)
 - [Random Real Time Rendering paper](http://realtimerendering.com/random.html)
+- [A Vortex Particle Method for Smoke, Water and Explosions](http://physbam.stanford.edu/~fedkiw/papers/stanford2005-01.pdf)
+
+## Sites
+- [Linden Reid - Graphics programming & procedural generation tutorials](https://lindenreid.wordpress.com/)
